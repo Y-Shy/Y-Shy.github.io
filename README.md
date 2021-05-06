@@ -1,2 +1,2 @@
-# sy.github.io
+# lognow.github.io
 my website
